@@ -4,7 +4,8 @@
 
 <br>
 
-## 🎥 Live Dashboard Demo
+## 🎥 Live Dashboard Demo(CLICK TO WATCH)
+
 
 <p align="center">
 <a href="https://youtu.be/slLXVpzfqt8">

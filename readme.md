@@ -181,7 +181,7 @@ This project demonstrates proficiency in:
 
 # 📷 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard Preview](images/volleys_dashboard.png)
 
 ---
 

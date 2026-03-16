@@ -2,6 +2,15 @@
 
 ![Dashboard Preview](images/volleys_dashboard.png)
 
+<br>
+
+## 🎥 Live Dashboard Demo
+
+<p align="center">
+<a href="https://youtu.be/slLXVpzfqt8">
+<img src="https://img.youtube.com/vi/slLXVpzfqt8/0.jpg" width="600">
+</a>
+</p>
 ---
 
 ## 📊 Project Overview
